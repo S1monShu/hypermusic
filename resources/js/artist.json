@@ -1,0 +1,28 @@
+{
+    "artists": [
+        {
+            "id": 0,
+            "artist_name": "ТОМ ЙОРК",
+            "artist_quote": "МУЗЫКА - ЭТО ТО, ЧТО ПРИДАЕТ МЫСЛЯМ ЭНЕРГИЮ. САМОЕ ГЛАВНОЕ В МУЗЫКЕ - ЭТО ЧУВСТВО ОСВОБОЖДЕНИЯ",
+            "artist_img": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-14394-radiohead-1800-1392148427.jpg?w=1581&h=1054&crop=1"
+        },
+        {
+            "id": 1,
+            "artist_name": "БРАЙАН МЭЙ",
+            "artist_quote": "ЛУЧШАЯ ЭМОЦИЯ, КОТОРУЮ ДАЕТ РОК - ЭТО ЗАРЯД ОПТИМИЗМА",
+            "artist_img": "https://www.soyuz.ru/public/uploads/files/5/7103466/1005x558_20170718183756d17ecf35a7.jpg"
+        },
+        {
+            "id": 2,
+            "artist_name": "МЭРЭЛИН МЭНСОН",
+            "artist_quote": "МУЗЫКА - САМЫЙ СИЛЬНЫЙ ВИД МАГИИ",
+            "artist_img": "https://aif-s3.aif.ru/images/012/265/bebf625c1704e2f266751ff912a91270.jpg"
+        },
+        {
+            "id": 3,
+            "artist_name": "ДЖИММИ ПЕЙДЖ",
+            "artist_quote": "ПОМНЮ, Я УСЛЫШАЛ ДВЕ ГИТАРЫ И БАС И ПОДУАЛ: \"ЧЕРТ, Я ХОЧУ ТОЖЕ, КАК ОНИ\". В ЭТОЙ МУЗЫКЕ БЫЛО СТОЛЬКО ЭНЕРГИИ И ЖИЗНИ",
+            "artist_img": "https://rockcult.ru/wp-content/uploads/2016/01/jimmy-page-facts-quotes.jpg"
+        }
+    ]
+}
