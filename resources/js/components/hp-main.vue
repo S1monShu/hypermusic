@@ -27,7 +27,7 @@
                     <RouterLink :to="{name: 'bass'}" tag="div" id="bass">
                         <p>БАСС</p>
                     </RouterLink>
-                    <RouterLink :to="{name: 'electric_guitars'}" tag="div" id="electric_guitars">    
+                    <RouterLink :to="{name: 'electric_guitars'}" tag="div" id="electric_guitars">
                         <p>ЭЛЕКТРОГИТАРЫ</p>
                     </RouterLink>
                 </div>
@@ -90,6 +90,7 @@ export default {
 <style>
     body{
         background-color: #f0f0f0;
+        font-family: 'NT Somic';
     }
     .main_image{
         width: 100%;
@@ -150,7 +151,7 @@ export default {
     .hp-popular-item .item_price{
         font-weight: 500;
         padding-top: 8px;
-        font-size: 14px; 
+        font-size: 14px;
     }
     .hp-categories{
         margin-top: 72px;

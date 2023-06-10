@@ -1,6 +1,5 @@
 import { createStore } from 'vuex'
 import axios from 'axios'
-import { toRaw } from 'vue'
 import artists from '../artist.json'
 
 
